@@ -15,8 +15,8 @@
 
 session_start();
 
-$_SESSION['LOGIN'] = 'bs418386';
-$_SESSION['PASS'] = 'bs418386';
+$_SESSION['LOGIN'] = '';
+$_SESSION['PASS'] = '';
 $_SESSION['CONNSTR'] = "//labora.mimuw.edu.pl/LABS";
 
 
